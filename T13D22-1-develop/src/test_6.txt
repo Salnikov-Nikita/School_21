@@ -1,3 +1,0 @@
-non_empty_file non_empty_file non_empty_file non_empty_file
-non_empty_file non_empty_file non_empty_file non_empty_file
-non_empty_file non_empty_file non_empty_file non_empty_file
