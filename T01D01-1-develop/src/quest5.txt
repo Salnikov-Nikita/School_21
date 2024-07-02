@@ -1,0 +1,9 @@
+cd door_management_files
+ls
+cd door_configuration
+ls
+cat door_1.conf
+nano door_1.conf
+#change CLOSED -> OPEN
+
+
