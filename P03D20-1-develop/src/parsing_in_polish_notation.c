@@ -87,7 +87,7 @@ int parsing_in_polish_notation(struct st *operations, int *input_str, int input_
                 operations = push(operations, token);
             else {
                 while ((operations != NULL) && (priority(operations->c) >= p))
-                    output_str[point++] = delete(&operations);
+                    output_str[point++] = delete (&operations);
                 operations = push(operations, token);
             }
             unar_flag = 1;
